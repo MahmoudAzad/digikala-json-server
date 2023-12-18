@@ -7744,25 +7744,25 @@
     {
       "id": 1,
       "name": "گوشی‌های اپل",
-      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/a795066145b8ca20919bf7ae93111ce9f7665e1e_1692518646.jpg?x-oss-process=image/format,webp",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/dcd6e4e843bea3f070614a95d27b1181fdf23008_1675772038.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
       "slug": "apple"
     },
     {
       "id": 2,
       "name": "گوشی‌های سامسونگ",
-      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a1a87a56b6ad05dcd41044d5ccdb00a392a42dff_1699509113.jpg?x-oss-process=image/quality,q_95/format,webp",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/444db8fa74297b7eb133eedf29c98443ad141ed3_1681801303.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
       "slug": "samsung"
     },
     {
       "id": 3,
       "name": "گوشی‌های نوکیا",
-      "image": "https://www.digikala.com/mag/wp-content/uploads/2022/12/Mobile-1401.09.28.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2180865dcfdaa31a9d98102465994e4498726a69_1693047891.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
       "slug": "pgone-nokia"
     },
     {
       "id": 4,
       "name": "کاور گوشی",
-      "image": "https://www.digikala.com/mag/wp-content/uploads/2023/04/15-7.jpg",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/685d94f9babfd9cb5bf72fb726d4c595765e2fb4_1685956001.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
       "slug": "phone-cover"
     }
   ]
